@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css">
+    
+    
+  </head>
+  <body>
+    
+    
+    <a href="../../index.html" id="homelink">Home</a><br>
+    
+    
+
+    <h1>Dynamically Alter Balls </h1>
+<button id="increaseballsize" onclick="increaseballsize()"class="button">Increase Bouncy Ball size</button>
+<button id="increasefloatingballsize" onclick="changeballdirection()"class="button">Reverse Floating Ball Direction</button><br>
+<h1>Generate Floating Balls</h1>
+     <button id="generatefloat" onclick = "floatingballinit()"class="button">  (Enter # of Balls and Max Ball Size)</button>
+     <input id="numberoffloatingballs"class="button"></input>
+     <input id="floatingballsradius" class="button"></input><br>
+     <h1>Generate Bouncy Ball </h1>
+     <button id="generate" onclick="init()"class="button">(Enter # of Balls and Max Ball Size</button>
+     <input id="numberofbouncyballs" class="button"></input>
+     <input id="bouncyballsradius" class="button"></input>
+     
+     <canvas id="canvas"></canvas>
+     <script src="index.js"></script>
+     
+    
+   
+
+   
+    
+    
+  </body>
+</html>
