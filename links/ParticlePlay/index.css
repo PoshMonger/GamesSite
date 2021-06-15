@@ -1,0 +1,23 @@
+
+
+    .button{
+       
+        align-items: relative;
+        margin-left: 10px;
+        color: lightblue;
+        border-radius: 10px;
+        text-decoration: lightcoral;
+    }
+    .homelink { 
+
+        background-color: #f44336;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin-bottom: 10px;
+    
+    
+    }
+    
