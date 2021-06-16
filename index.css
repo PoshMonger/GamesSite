@@ -1,13 +1,37 @@
 .gamelink { 
 
-    background-color: #f44336;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
     display: inline-block;
-    margin-bottom: 10px;
+
+    color:red; background-color:coral; padding: 14px 25px;text-align: left;text-decoration: none;display: inline-block;margin-bottom: 20px;
 
 
 }
 
+
+
+
+
+.linktheme1 {display: inline-block;
+
+    color:red; background-color:coral; padding: 14px 25px;text-align: left;text-decoration: none;display: inline-block;margin-bottom: 20px;
+}
+.linktheme2 {display: inline-block;
+
+    color:white; background-color:black; padding: 14px 25px;text-align: left;text-decoration: none;display: inline-block;margin-bottom: 20px;
+}
+.linktheme3 {display: inline-block;
+
+    color:blue; background-color:lightblue; padding: 14px 25px;text-align: left;text-decoration: none;display: inline-block;margin-bottom: 20px;
+}
+.linktheme4 {display: inline-block;
+
+    color:black; background-color:lightslategrey; padding: 14px 25px;text-align: left;text-decoration: none;display: inline-block;margin-bottom: 20px;
+}
+.linktheme5 {display: inline-block;
+
+    color:green; background-color:lightgreen; padding: 14px 25px;text-align: left;text-decoration: none;display: inline-block;margin-bottom: 20px;
+}
+.linktheme6 {display: inline-block;
+
+    color:white; background-color:purple; padding: 14px 25px;text-align: left;text-decoration: none;display: inline-block;margin-bottom: 20px;
+}
