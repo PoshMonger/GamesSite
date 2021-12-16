@@ -1,10 +1,14 @@
 
-   
+   *{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
 
     .button{
         border-radius: 10px;
-        color: lightblue;
-        text-decoration: lightcoral;
+        color: rgb(0, 0, 0);
+        text-decoration: rgb(190, 184, 184);
+        background-color: rgb(109, 112, 112);
+        
     }
     .homelink { 
 
@@ -19,4 +23,7 @@
     
     
     }
-    
+    #interface_cont{
+
+        position: absolute;
+    }
